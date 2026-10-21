@@ -1,4 +1,5 @@
 🎓 BTEUP.IN — Student Information Portal
+==============================================
 
 A modern, responsive web portal concept for BTEUP students, featuring academic resources, examination information, notices, and student services.
 
