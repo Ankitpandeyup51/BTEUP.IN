@@ -4,14 +4,14 @@
 A modern, responsive web portal concept for BTEUP students, featuring academic resources, examination information, notices, and student services.
 
 
-📖 About the Project
+📖About the Project
 ==========================================
 
 BTEUP.IN is a front-end web project designed to organize BTEUP-related academic resources in a clean, student-friendly interface.
 
 The website provides easy navigation to examination resources, notices, downloads, FAQs, and student services.
 
-✨ Key Features
+✨ Key Features 
 ===============================================
 
 🏠 Modern Homepage — Clean layout and intuitive navigation.
@@ -102,3 +102,82 @@ Ankit Pandey
 Made with ❤️ using HTML, CSS, JavaScript & Bootstrap
 
 ⭐ If you like this project, give it a star!
+
+
+📖 Home Navbar
+===============================
+
+<img width="959" height="513" alt="Screenshot 2026-10-21 112227" src="https://github.com/user-attachments/assets/b33e94ec-38fd-44c3-9382-24ccc4cf2238" />
+
+📖 Quick Links
+=============================
+
+<img width="959" height="509" alt="Screenshot 2026-10-21 112241" src="https://github.com/user-attachments/assets/99be5fb2-70d5-4348-84c8-6aa12d2bab95" />
+
+<img width="959" height="508" alt="Screenshot 2026-10-21 112253" src="https://github.com/user-attachments/assets/93bf957e-6ab2-4aa2-a2a6-ad12145eba46" />
+
+
+📖About Us
+================
+
+<img width="959" height="506" alt="Screenshot 2026-10-21 112310" src="https://github.com/user-attachments/assets/fb192630-6f75-4586-9141-4e077c96822b" />
+
+
+📖 Check Examination Result
+====================================
+
+<img width="945" height="471" alt="Screenshot 2026-10-21 112326" src="https://github.com/user-attachments/assets/f0994337-782b-4de2-b246-e4a701eed403" />
+
+
+<img width="947" height="469" alt="Screenshot 2026-10-21 112344" src="https://github.com/user-attachments/assets/c2198f3d-43bd-42a2-8585-18ec3ab09855" />
+
+
+📖Student Services
+
+=============================
+
+<img width="945" height="469" alt="Screenshot 2026-10-21 112358" src="https://github.com/user-attachments/assets/472647bc-6e99-470e-aa79-67930aa2af20" />
+
+📖 Importent Downloads
+
+=================================
+
+<img width="947" height="470" alt="Screenshot 2026-10-21 112413" src="https://github.com/user-attachments/assets/3b39f08b-ffcb-495e-a947-5c2b07f691de" />
+
+
+📖 Faqs Question
+==========================
+
+<img width="947" height="476" alt="Screenshot 2026-10-21 112427" src="https://github.com/user-attachments/assets/b2d81cd6-cc63-4be1-b221-acf62e972c6e" />
+
+
+📖 Contact Us
+
+===================================
+
+<img width="944" height="475" alt="Screenshot 2026-10-21 112443" src="https://github.com/user-attachments/assets/c3a1973d-ff2d-4e77-96fa-a4f2e121fc61" />
+
+
+📖Footer Link
+
+=================
+
+<img width="949" height="475" alt="Screenshot 2026-10-21 112459" src="https://github.com/user-attachments/assets/166a6c54-b828-4cdd-822d-b0c03dc8d907" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
