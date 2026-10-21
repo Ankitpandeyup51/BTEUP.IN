@@ -124,7 +124,6 @@ Made with ❤️ using HTML, CSS, JavaScript & Bootstrap
 
 
 📖 Check Examination Result
-
 ====================================
 
 <img width="945" height="471" alt="Screenshot 2026-10-21 112326" src="https://github.com/user-attachments/assets/f0994337-782b-4de2-b246-e4a701eed403" />
@@ -133,14 +132,12 @@ Made with ❤️ using HTML, CSS, JavaScript & Bootstrap
 <img width="947" height="469" alt="Screenshot 2026-10-21 112344" src="https://github.com/user-attachments/assets/c2198f3d-43bd-42a2-8585-18ec3ab09855" />
 
 
-📖Student Services
-
+📖 Student Services
 =============================
 
 <img width="945" height="469" alt="Screenshot 2026-10-21 112358" src="https://github.com/user-attachments/assets/472647bc-6e99-470e-aa79-67930aa2af20" />
 
 📖 Importent Downloads
-
 =================================
 
 <img width="947" height="470" alt="Screenshot 2026-10-21 112413" src="https://github.com/user-attachments/assets/3b39f08b-ffcb-495e-a947-5c2b07f691de" />
