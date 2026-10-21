@@ -152,14 +152,12 @@ Made with ❤️ using HTML, CSS, JavaScript & Bootstrap
 
 
 📖 Contact Us
-
-===================================
+========================
 
 <img width="944" height="475" alt="Screenshot 2026-10-21 112443" src="https://github.com/user-attachments/assets/c3a1973d-ff2d-4e77-96fa-a4f2e121fc61" />
 
 
-📖Footer Link
-
+📖 Footer Link
 =================
 
 <img width="949" height="475" alt="Screenshot 2026-10-21 112459" src="https://github.com/user-attachments/assets/166a6c54-b828-4cdd-822d-b0c03dc8d907" />
