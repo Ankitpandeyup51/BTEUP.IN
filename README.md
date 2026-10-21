@@ -50,6 +50,12 @@ Bootstrap Icons	Interface icons
 
 git clone https://github.com/Ankitpandeyup51/BTEUP.IN.git
 
+✨ Live Website
+=====================
+
+
+bteuptechnicalin.netlify.app
+
 
 cd BTEUP.IN
 
